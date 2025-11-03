@@ -46,6 +46,7 @@ public class  AccesoABaseDeDatosTest {
 			Assert.assertEquals(count, 15);
 			
 			System.out.println("Prueba exitosa!");
+			System.out.println("Terminó la prueba");
 			//Assert.assertEquals(count > 0, true);
 				
       		// closing DB Connection		
