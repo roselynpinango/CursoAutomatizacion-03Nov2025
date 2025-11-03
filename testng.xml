@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="edit.EducacionIT_78339.PracticaM2Test"/>
+      <class name="edit.EducacionIT_78339.PracticaM1Test"/>
+      <class name="edit.EducacionIT_78339.AppTest"/>
+      <class name="edit.EducacionIT_78339.PracticaM3Test"/>
+      <class name="edit.EducacionIT_78339.PracticaM4Test"/>
+      <class name="pruebas.PracticaM5Test"/>
+      <class name="pruebas.PracticaM5bTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
